@@ -186,7 +186,7 @@ export default {
                         (tag) => tag._id == curr.QuestionTags.Tag._id
                     );
                     if (!tagExists) {
-                        // delete curr.QuestionTags.Tag.id;
+                        delete curr.QuestionTags.Tag.id;
                         existingQuestion.tags.push(curr.QuestionTags.Tag);
                     }
                 }
