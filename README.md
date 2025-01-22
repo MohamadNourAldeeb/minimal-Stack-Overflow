@@ -1,9 +1,9 @@
 # Mesrag_test
 
 # Installation
-
-add environment variables :
-
+1. first should clone the repo
+2. Open Terminal , and write : `npm i` after that create a `.env` file in the root directory
+3. add environment variables :
 `PORT` the port number that you want to start the api on
 
 `LINK` the link used in your project
@@ -47,3 +47,9 @@ add environment variables :
 `EMAIL_PORT ` like `456`
 
 `PROJECT_NAME` for name that send in email title
+
+2-pl
+
+
+
+# created By :Eng.mohamad noor aldeeb 
