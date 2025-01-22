@@ -49,5 +49,5 @@
 
 `PROJECT_NAME` for name that send in email title
 
-
+4-please add folder with name public and contain in it two folders images and files for upload file in them
 # created By :Eng.mohamad noor aldeeb 
